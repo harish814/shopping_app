@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1005995966644",
+    "project_id": "with-heart",
+    "storage_bucket": "with-heart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005995966644:android:5598e85e7db216bc6797e1",
+        "android_client_info": {
+          "package_name": "com.example.with_heart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005995966644-ict5u7r32tkgan54ck7rud1jaal4eft2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.with_heart",
+            "certificate_hash": "bfd0c9c9d636df5aab65a8548269968a7cd10a51"
+          }
+        },
+        {
+          "client_id": "1005995966644-7qh086t8hredgce1t20jsjd33uv0netr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqUGZh18bwVbANE4aak_2G8vBDU6L-7-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005995966644-7qh086t8hredgce1t20jsjd33uv0netr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
